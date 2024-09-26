@@ -17,7 +17,7 @@ int main(){
 
     Student s1 , s2;
 
-    s1.name = "ayush";
+    s1.name = "arav";
     s1.branch = "E&TC";
     s1.subject = "C++";
     s1.year = "second year";
@@ -32,7 +32,7 @@ int main(){
 
     cout << " " << endl;
 
-    s2.name = "siddhant";
+    s2.name = "aamir";
     s2.branch = "E&TC";
     s2.subject = "c++";
     s2.year = "second year";
@@ -52,14 +52,14 @@ int main(){
 /*
 OUTPUT
 student 1:-
-name:ayush
+name:arav
 branch:E&TC
 subject:C++
 year:2023-2027
 result:9
 
 student 2:-
-name:siddhant
+name:aamir
 branch:E&TC
 subject:c++
 year:23-27
